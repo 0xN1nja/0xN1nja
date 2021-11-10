@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm N1nja0p</h1>
-<h3 align="center">A Passionate Backend Developer From India</h3>
+<h3 align="center">A Passionate Python Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n1nja0p&label=Profile%20views&color=0e75b6&style=flat" alt="n1nja0p" /> </p>
 
