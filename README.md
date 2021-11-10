@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Python, Selenium, OpenCV**
 
-- 📫 How to reach me **n1nja404butfound/**
+- 📫 How to reach me **speedcuberabhi@gmail.com**
 
 - ⚡ Fun fact **People Think I'm Funny :D**
 
