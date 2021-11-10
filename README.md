@@ -1,13 +1,3 @@
-### Hi there 👋
-
-
-
-- 🔭 I’m currently working on Python
-- 🌱 I’m currently learning C#
-- 👯 I’m looking to collaborate on Selenium
-- 🤔 I’m looking for help with JavaScript
-- 💬 Ask me about Python
-- 📫 How to reach me: https://www.instagram.com/n1nja404butfound/
 <h1 align="center">Hi 👋, I'm N1nja0p</h1>
 <h3 align="center">A Passionate Backend Developer From India</h3>
 
