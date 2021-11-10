@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 👯 I’m looking to collaborate on **Selenium**
+- 👯 I’m looking to collaborate on **Selenium Projects**
 
 - 🤝 I’m looking for help with **JavaScript**
 
