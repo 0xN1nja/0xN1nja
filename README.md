@@ -20,7 +20,14 @@
 - 📫 How to reach me **speedcuberabhi@gmail.com**
 
 - ⚡ Fun fact **People Think I'm Funny :D**
-
+<a href="https://github.com/ZeroDiscord/">
+        <img src="https://komarev.com/ghpvc/?username=ZeroDiscord&color=red" />
+  </a> 
+<br>
+<br>
+<a href="https://discord.com/users/603948445362946084">
+        <img src="https://lanyard-profile-readme.vercel.app/api/603948445362946084?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
+    </a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhiman78795935" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhiman78795935" height="30" width="40" /></a>
