@@ -20,8 +20,8 @@
 - 📫 How to reach me **speedcuberabhi@gmail.com**
 
 - ⚡ Fun fact **People Think I'm Funny :D**
-<a href="https://github.com/bhot jada sexy ladka/">
-        <img src="https://komarev.com/ghpvc/?username=ZeroDiscord&color=red" />
+<a href="https://github.com/bhot%20jada%20sexy%20ladka/">
+        <img src="https://komarev.com/ghpvc/?username=bhot%20jada%20sexy%20ladka&color=red" />
   </a> 
 <br>
 <br>
