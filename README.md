@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/N1nja0p](https://linktr.ee/N1nja0p)
 
-- 💬 Ask me about **Python, Selenium, OpenCV, Tkinter, PyQt5**
+- 💬 Ask me about **Python, Selenium, OpenCV, Tkinter And PyQt5**
 
 - 📫 How to reach me **speedcuberabhi@gmail.com**
 
