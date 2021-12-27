@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Selenium Projects**
 
-- 🍔 I'm 15
+- 🍔 I'm **15**
 
 - 🤝 I’m looking for help with **JavaScript**
 
