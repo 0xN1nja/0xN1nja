@@ -11,6 +11,8 @@
 
 - 👯 I’m looking to collaborate on **Selenium Projects**
 
+- 🍔 I'm 15
+
 - 🤝 I’m looking for help with **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/N1nja0p](https://linktr.ee/N1nja0p)
