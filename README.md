@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on **Selenium Projects**
 
 - 👨 I'm **15**
 
-- 🤝 I’m looking for help with **JavaScript**
+- 🤝 I’m looking for help with **Rust**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/N1nja0p](https://linktr.ee/N1nja0p)
 
