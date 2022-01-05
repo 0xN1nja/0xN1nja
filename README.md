@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Dart**
 
 - 👯 I’m looking to collaborate on **Selenium Projects**
 
