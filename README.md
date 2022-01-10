@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate on **Selenium Projects**
 
