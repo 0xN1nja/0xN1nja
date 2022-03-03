@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=N1nja0p&label=Profile%20views&color=brightgreen&style=flat" alt="0xN1nja" /> </p>
 <img src="https://github-readme-stats.vercel.app/api?username=0xN1nja&show_icons=true&theme=dark&count_private=true&include_all_commits=true&custom_title=0xN1nja's Stats">
-<a href="https://discord.com/users/620618831861383188">
-        <img src="https://lanyard-profile-readme.vercel.app/api/620618831861383188?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
-    </a>
 
 - 🔭 I’m currently working on **Python**
 
