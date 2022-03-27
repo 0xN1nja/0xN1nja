@@ -33,7 +33,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-### Analytics
+### Analytics/Databases
   
   ![mongodb](https://img.shields.io/badge/mongodb-005C84?style=for-the-badge&logo=mongodb&logoColor=white)
   ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
