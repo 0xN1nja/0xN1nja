@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **TensorFlow**
 
 - 👯 I’m looking to collaborate on **Selenium Projects**
 
