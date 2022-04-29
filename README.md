@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **TensorFlow**
+- 🌱 I’m currently learning **Convolutional Neural Networks With TensorFlow And PyTorch**
 
 - 👯 I’m looking to collaborate on **Selenium Projects**
 
@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/N1nja0p](https://linktr.ee/N1nja0p)
 
-- 💬 Ask me about **Python, Selenium, OpenCV, Tkinter And PyQt5**
+- 💬 Ask me about **Python, Deep Learning, PyTorch, TensorFlow And Selenium**
 
 - 📫 How to reach me **speedcuberabhi@gmail.com**
 
