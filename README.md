@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Convolutional Neural Networks With TensorFlow And PyTorch**
+- 🌱 I’m currently learning **Tokenization And Recurrent Neural Networks With TensorFlow**
 
-- 👯 I’m looking to collaborate on **Selenium Projects**
+- 👯 I’m looking to collaborate on **Deep Learning Projects**
 
 - 👨 I'm **15**
 
