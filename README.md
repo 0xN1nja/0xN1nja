@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/N1nja0p](https://linktr.ee/N1nja0p)
 
-- 💬 Ask me about **Python, Deep Learning, PyTorch, TensorFlow And Selenium**
+- 💬 Ask me about **Python, Deep Learning, TensorFlow And Selenium**
 
 - 📫 How to reach me **speedcuberabhi@gmail.com**
 
