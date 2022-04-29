@@ -12,8 +12,6 @@
 
 - 👨 I'm **15**
 
-- 🤝 I’m looking for help with **Data Structures And Algorithms**
-
 - 👨‍💻 All of my projects are available at [https://linktr.ee/N1nja0p](https://linktr.ee/N1nja0p)
 
 - 💬 Ask me about **Python, Deep Learning, TensorFlow And Selenium**
