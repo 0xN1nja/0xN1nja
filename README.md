@@ -16,8 +16,6 @@
 
 - 💬 Ask me about **Python, Deep Learning, TensorFlow And Selenium**
 
-- 📫 How to reach me **speedcuberabhi@gmail.com**
-
 - ⚡ Fun fact **People Think I'm Funny :D**
 
 <h3 align="left">Connect with me:</h3>
