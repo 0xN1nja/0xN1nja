@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">, I'm Abhimanyu Sharma</h1>
+<h1 align="center">Hi, I'm Abhimanyu Sharma</h1>
 <h3 align="center">A Passionate Python Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=N1nja0p&label=Profile%20views&color=brightgreen&style=flat" alt="0xN1nja" /> </p>
