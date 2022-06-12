@@ -58,9 +58,5 @@
   <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://static.cdnlogo.com/logos/c/27/c.svg" alt="c#" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/> </a>
-  <a href="https://dart.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-  <a href="https://go.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="40" height="40"/> </a>
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xN1nja&layout=compact&card_width=250&hide_border=true&theme=dracula"/>
 
