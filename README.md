@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=N1nja0p&label=Profile%20views&color=brightgreen&style=flat" alt="0xN1nja" /> </p>
 <img src="https://github-readme-stats.vercel.app/api?username=0xN1nja&show_icons=true&theme=dark&count_private=true&include_all_commits=true&custom_title=0xN1nja's Stats">
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Python And JavaScript**
 
 - 🌱 I’m currently learning **Tokenization And Recurrent Neural Networks With TensorFlow**
 
